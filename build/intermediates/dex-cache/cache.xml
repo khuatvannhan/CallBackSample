@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6d3596a234fdd03c272dcd9cf04afc790abb80a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_e5247b200e550e58e466f3a584290be0d8a49ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_e08ecaaa7d262770c29fbcbafb18b200493885c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/snowflower/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_39ca9d4da5f521ed970bea695de431b0f72705ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_b05be765bb6481c9b717e869c5b75098241de01f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_5e2ac509cb829af0bb519a3283df5f5c88fe1daf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a17d69e56ff52d3ca3ba0a0719df9e9f81b752ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dcf09b631d485df11a79a64ba5dff2674bd81b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_d67dfff15c2775da064aa37d4b89bacf2f6a9387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/snowflower/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel/1.3.1/d8292987daeff2da9802a6d90269d779e881cd80/fuel-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d8292987daeff2da9802a6d90269d779e881cd80">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/fuel-1.3.1_9d3ae2a2fed622eda99844889f27030ca63f6d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f9204803ff20c5c3f9baa284789179cadb775c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_cd8f41695c39baa6ace937e4bc85ba5c58cf527f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_2d99fb377bba0e1ccc7932451645c5adacdce7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/snowflower/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.result/result/1.0.2/587cb4632d8dedab00ddbb1c9328a23dec18ca04/result-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="587cb4632d8dedab00ddbb1c9328a23dec18ca04">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/result-1.0.2_da35225cf189a62045a46e096893a3925a9b2974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.github.kittinunf.fuel/fuel-android/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ed5da26ce1e22afecfa7f2e691b06bcbba0dce77">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.github.kittinunf.fuel-fuel-android-1.3.1_cd5315d4f7efbb510d20ec8d415681de8286d5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1beae025dabf98c164c3599f42991e73926df55d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_69b05e238634206950ffd4c4ce8ddf498c1fa68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/snowflower/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.2/8ec2d49a780ddba5e9b6860a72969e4d5bbc0c55/kotlin-runtime-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ec2d49a780ddba5e9b6860a72969e4d5bbc0c55">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.2_6a44aa26cc70f9991146d4fdaa810b65e403de6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/snowflower/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.2/22063f19bfd8e50f21fc310842a91ff5b31bb272/kotlin-stdlib-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="22063f19bfd8e50f21fc310842a91ff5b31bb272">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.2_28c93705e6a4686193aed9c8c5652483f2322d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/StoreCoding/GitClone/android-architecture-todo-mvp/CallBackSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_2408edfae57105f939335a4879703229f5ee1c9c.jar" />
+    </item>
+
+</items>
